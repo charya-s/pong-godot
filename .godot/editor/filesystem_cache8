@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1697615918
+GameUI.gd::GDScript::-1::1697615884::0::1::::<>CanvasLayer<>::
+icon.svg::CompressedTexture2D::1027745803722412701::1697615884::1697615919::1::::<><>::
+README.md::TextFile::-1::1697615884::0::1::::<><>::
+::res://Scenes/::1697615884
+Ball.tscn::PackedScene::3757092006783576533::1697615884::0::1::::<><>::uid://ov328wkincwb::::res://icon.svg<>res://Scenes/BallController.gd
+BallController.gd::GDScript::-1::1697615884::0::1::::<>CharacterBody2D<>::
+Enemy.tscn::PackedScene::5936337027091727303::1697615884::0::1::::<><>::res://Scenes/EnemyController.gd<>uid://ov328wkincwb::::res://icon.svg
+EnemyController.gd::GDScript::-1::1697615884::0::1::::<>CharacterBody2D<>::
+GameStage.gd::GDScript::-1::1697615884::0::1::::<>Node2D<>::
+GameStage.tscn::PackedScene::1678909966234122558::1697615884::0::1::::<><>::res://Scenes/GameStage.gd<>uid://ov328wkincwb::::res://icon.svg<>uid://b7jnrovt31gpk::::res://Scenes/Player.tscn<>uid://btr70yo4urgkb::::res://Scenes/Ball.tscn<>uid://cqtuurxagyy5l::::res://Scenes/Enemy.tscn<>uid://dlp2sdidp0ohv::::res://Scenes/GameUI.tscn
+GameUI.tscn::PackedScene::7963976670589374803::1697615884::0::1::::<><>::res://GameUI.gd
+Player.tscn::PackedScene::4651863527968537168::1697615884::0::1::::<><>::uid://ov328wkincwb::::res://icon.svg<>res://Scenes/PlayerController.gd
+PlayerController.gd::GDScript::-1::1697615884::0::1::::<>CharacterBody2D<>::
