@@ -1,4 +1,4 @@
-# Pong
+# Kets' Pong
 <p>The classic game Pong created on Godot using GDScript.</p>
 <p>Created by Charya M. Sendanayake.</p>
 
